@@ -34,7 +34,7 @@
 +   [Asp.NET 4.5 C# 入门指南](docs/begin-aspdn-45-cs/README.md)
     +   [零、简介](docs/begin-aspdn-45-cs/00.md)
     +   [一、概览](docs/begin-aspdn-45-cs/01.md)
-    +   [二、C#语言](docs/begin-aspdn-45-cs/02.md)
+    +   [二、C# 语言](docs/begin-aspdn-45-cs/02.md)
     +   [三、类型，对象，以及名称空间](docs/begin-aspdn-45-cs/03.md)
 +   [Asp.NET 开发者的 SOLID 原则和设计模式入门指南](docs/begin-solid-prin-design-ptn-aspdn-dev/README.md)
     +   [一、SOLID 原则和设计模式概述](docs/begin-solid-prin-design-ptn-aspdn-dev/01.md)
